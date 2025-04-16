@@ -1,0 +1,112 @@
+{
+  "siteInfo": {
+    "title": "我的导航",
+    "footerText": "© 2023 我的导航页 | 使用 ❤️ 制作",
+    "socialLinks": [
+      {
+        "icon": "fab fa-weixin",
+        "url": "#"
+      },
+      {
+        "icon": "fab fa-weibo",
+        "url": "#"
+      },
+      {
+        "icon": "fab fa-github",
+        "url": "#"
+      }
+    ]
+  },
+  "categories": [
+    {
+      "name": "开发工具",
+      "icon": "fas fa-code",
+      "links": [
+        {
+          "title": "GitHub",
+          "url": "https://github.com",
+          "icon": "fab fa-github",
+          "description": "代码托管平台"
+        },
+        {
+          "title": "Stack Overflow",
+          "url": "https://stackoverflow.com",
+          "icon": "fab fa-stack-overflow",
+          "description": "程序员问答社区"
+        },
+        {
+          "title": "CodePen",
+          "url": "https://codepen.io",
+          "icon": "fab fa-codepen",
+          "description": "前端代码分享平台"
+        },
+        {
+          "title": "MDN",
+          "url": "https://developer.mozilla.org",
+          "icon": "fab fa-firefox-browser",
+          "description": "Web开发文档"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "icon": "fas fa-book",
+      "links": [
+        {
+          "title": "Coursera",
+          "url": "https://www.coursera.org",
+          "icon": "fas fa-graduation-cap",
+          "description": "在线课程平台"
+        },
+        {
+          "title": "Udemy",
+          "url": "https://www.udemy.com",
+          "icon": "fas fa-chalkboard-teacher",
+          "description": "技能学习平台"
+        },
+        {
+          "title": "哔哩哔哩",
+          "url": "https://www.bilibili.com",
+          "icon": "fab fa-bilibili",
+          "description": "视频学习平台"
+        },
+        {
+          "title": "掘金",
+          "url": "https://juejin.cn",
+          "icon": "fas fa-book-open",
+          "description": "技术社区"
+        }
+      ]
+    },
+    {
+      "name": "实用工具",
+      "icon": "fas fa-tools",
+      "links": [
+        {
+          "title": "Notion",
+          "url": "https://www.notion.so",
+          "icon": "fas fa-sticky-note",
+          "description": "全能笔记工具"
+        },
+        {
+          "title": "Trello",
+          "url": "https://trello.com",
+          "icon": "fab fa-trello",
+          "description": "项目管理工具"
+        },
+        {
+          "title": "Figma",
+          "url": "https://www.figma.com",
+          "icon": "fab fa-figma",
+          "description": "设计协作工具"
+        },
+        {
+          "title": "Google翻译",
+          "url": "https://translate.google.com",
+          "icon": "fas fa-language",
+          "description": "在线翻译工具"
+        }
+      ]
+    }
+  ]
+} 
